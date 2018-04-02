@@ -1,0 +1,3 @@
+C:/Users/nullptr/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/moderncpp.dir
+C:/Users/nullptr/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nullptr/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

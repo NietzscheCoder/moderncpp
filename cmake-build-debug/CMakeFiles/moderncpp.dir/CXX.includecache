@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/nullptr/CLionProjects/moderncpp/libfeatures/chrono.cpp
+iostream
+-
+chrono
+-
+
+C:/Users/nullptr/CLionProjects/moderncpp/main.cpp
+iostream
+-
+
