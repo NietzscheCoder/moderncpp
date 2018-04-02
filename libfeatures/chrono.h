@@ -2,10 +2,17 @@
 // Created by nullptr on 4/2/2018.
 //
 
+#ifndef MODERNCPP_CHRONO_H
+#define MODERNCPP_CHRONO_H
+
+//
+// Created by nullptr on 4/2/2018.
+//
+
 #include <iostream>
 #include <chrono>
 
-int main() {
+int chrono() {
 
     /*
      * Chrono library
@@ -35,3 +42,6 @@ int main() {
         std::cout << d.count() << std::endl;
 
 }
+
+
+#endif //MODERNCPP_CHRONO_H
