@@ -122,59 +122,32 @@ moderncpp/fast:
 	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/build
 .PHONY : moderncpp/fast
 
-libfeatures/chrono.obj: libfeatures/chrono.cpp.obj
+derek/vectors.obj: derek/vectors.cpp.obj
 
-.PHONY : libfeatures/chrono.obj
-
-# target to build an object file
-libfeatures/chrono.cpp.obj:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj
-.PHONY : libfeatures/chrono.cpp.obj
-
-libfeatures/chrono.i: libfeatures/chrono.cpp.i
-
-.PHONY : libfeatures/chrono.i
-
-# target to preprocess a source file
-libfeatures/chrono.cpp.i:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.i
-.PHONY : libfeatures/chrono.cpp.i
-
-libfeatures/chrono.s: libfeatures/chrono.cpp.s
-
-.PHONY : libfeatures/chrono.s
-
-# target to generate assembly for a file
-libfeatures/chrono.cpp.s:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.s
-.PHONY : libfeatures/chrono.cpp.s
-
-main.obj: main.cpp.obj
-
-.PHONY : main.obj
+.PHONY : derek/vectors.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+derek/vectors.cpp.obj:
+	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj
+.PHONY : derek/vectors.cpp.obj
 
-main.i: main.cpp.i
+derek/vectors.i: derek/vectors.cpp.i
 
-.PHONY : main.i
+.PHONY : derek/vectors.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/main.cpp.i
-.PHONY : main.cpp.i
+derek/vectors.cpp.i:
+	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/vectors.cpp.i
+.PHONY : derek/vectors.cpp.i
 
-main.s: main.cpp.s
+derek/vectors.s: derek/vectors.cpp.s
 
-.PHONY : main.s
+.PHONY : derek/vectors.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/main.cpp.s
-.PHONY : main.cpp.s
+derek/vectors.cpp.s:
+	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/vectors.cpp.s
+.PHONY : derek/vectors.cpp.s
 
 # Help Target
 help:
@@ -185,12 +158,9 @@ help:
 	@echo ... moderncpp
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... libfeatures/chrono.obj
-	@echo ... libfeatures/chrono.i
-	@echo ... libfeatures/chrono.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... derek/vectors.obj
+	@echo ... derek/vectors.i
+	@echo ... derek/vectors.s
 .PHONY : help
 
 

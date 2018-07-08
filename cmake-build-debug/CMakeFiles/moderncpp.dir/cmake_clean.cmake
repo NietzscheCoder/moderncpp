@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/moderncpp.dir/main.cpp.obj"
-  "CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj"
+  "CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj"
   "moderncpp.pdb"
   "moderncpp.exe"
   "moderncpp.exe.manifest"

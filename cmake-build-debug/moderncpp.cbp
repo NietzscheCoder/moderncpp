@@ -82,10 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/nullptr/CLionProjects/moderncpp/libfeatures/chrono.cpp">
-			<Option target="moderncpp"/>
-		</Unit>
-		<Unit filename="C:/Users/nullptr/CLionProjects/moderncpp/main.cpp">
+		<Unit filename="C:/Users/nullptr/CLionProjects/moderncpp/derek/vectors.cpp">
 			<Option target="moderncpp"/>
 		</Unit>
 		<Unit filename="C:/Users/nullptr/CLionProjects/moderncpp/CMakeLists.txt">

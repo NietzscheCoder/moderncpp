@@ -3,4 +3,4 @@ project(moderncpp)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(moderncpp main.cpp libfeatures/chrono.cpp)
+add_executable(moderncpp derek/vectors.cpp)

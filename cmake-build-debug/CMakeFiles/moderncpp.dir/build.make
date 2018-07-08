@@ -56,69 +56,43 @@ include CMakeFiles/moderncpp.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/moderncpp.dir/flags.make
 
-CMakeFiles/moderncpp.dir/main.cpp.obj: CMakeFiles/moderncpp.dir/flags.make
-CMakeFiles/moderncpp.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nullptr\CLionProjects\moderncpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/moderncpp.dir/main.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\moderncpp.dir\main.cpp.obj -c C:\Users\nullptr\CLionProjects\moderncpp\main.cpp
+CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj: CMakeFiles/moderncpp.dir/flags.make
+CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj: ../derek/vectors.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nullptr\CLionProjects\moderncpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\moderncpp.dir\derek\vectors.cpp.obj -c C:\Users\nullptr\CLionProjects\moderncpp\derek\vectors.cpp
 
-CMakeFiles/moderncpp.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/moderncpp.dir/main.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nullptr\CLionProjects\moderncpp\main.cpp > CMakeFiles\moderncpp.dir\main.cpp.i
+CMakeFiles/moderncpp.dir/derek/vectors.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/moderncpp.dir/derek/vectors.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nullptr\CLionProjects\moderncpp\derek\vectors.cpp > CMakeFiles\moderncpp.dir\derek\vectors.cpp.i
 
-CMakeFiles/moderncpp.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/moderncpp.dir/main.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nullptr\CLionProjects\moderncpp\main.cpp -o CMakeFiles\moderncpp.dir\main.cpp.s
+CMakeFiles/moderncpp.dir/derek/vectors.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/moderncpp.dir/derek/vectors.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nullptr\CLionProjects\moderncpp\derek\vectors.cpp -o CMakeFiles\moderncpp.dir\derek\vectors.cpp.s
 
-CMakeFiles/moderncpp.dir/main.cpp.obj.requires:
+CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj.requires:
 
-.PHONY : CMakeFiles/moderncpp.dir/main.cpp.obj.requires
+.PHONY : CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj.requires
 
-CMakeFiles/moderncpp.dir/main.cpp.obj.provides: CMakeFiles/moderncpp.dir/main.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/main.cpp.obj.provides.build
-.PHONY : CMakeFiles/moderncpp.dir/main.cpp.obj.provides
+CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj.provides: CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj.provides.build
+.PHONY : CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj.provides
 
-CMakeFiles/moderncpp.dir/main.cpp.obj.provides.build: CMakeFiles/moderncpp.dir/main.cpp.obj
-
-
-CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj: CMakeFiles/moderncpp.dir/flags.make
-CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj: ../libfeatures/chrono.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\nullptr\CLionProjects\moderncpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\moderncpp.dir\libfeatures\chrono.cpp.obj -c C:\Users\nullptr\CLionProjects\moderncpp\libfeatures\chrono.cpp
-
-CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\nullptr\CLionProjects\moderncpp\libfeatures\chrono.cpp > CMakeFiles\moderncpp.dir\libfeatures\chrono.cpp.i
-
-CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\nullptr\CLionProjects\moderncpp\libfeatures\chrono.cpp -o CMakeFiles\moderncpp.dir\libfeatures\chrono.cpp.s
-
-CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj.requires:
-
-.PHONY : CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj.requires
-
-CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj.provides: CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj.provides.build
-.PHONY : CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj.provides
-
-CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj.provides.build: CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj
+CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj.provides.build: CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj
 
 
 # Object files for target moderncpp
 moderncpp_OBJECTS = \
-"CMakeFiles/moderncpp.dir/main.cpp.obj" \
-"CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj"
+"CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj"
 
 # External object files for target moderncpp
 moderncpp_EXTERNAL_OBJECTS =
 
-moderncpp.exe: CMakeFiles/moderncpp.dir/main.cpp.obj
-moderncpp.exe: CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj
+moderncpp.exe: CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj
 moderncpp.exe: CMakeFiles/moderncpp.dir/build.make
 moderncpp.exe: CMakeFiles/moderncpp.dir/linklibs.rsp
 moderncpp.exe: CMakeFiles/moderncpp.dir/objects1.rsp
 moderncpp.exe: CMakeFiles/moderncpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\nullptr\CLionProjects\moderncpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable moderncpp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\nullptr\CLionProjects\moderncpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable moderncpp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\moderncpp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,8 +100,7 @@ CMakeFiles/moderncpp.dir/build: moderncpp.exe
 
 .PHONY : CMakeFiles/moderncpp.dir/build
 
-CMakeFiles/moderncpp.dir/requires: CMakeFiles/moderncpp.dir/main.cpp.obj.requires
-CMakeFiles/moderncpp.dir/requires: CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj.requires
+CMakeFiles/moderncpp.dir/requires: CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj.requires
 
 .PHONY : CMakeFiles/moderncpp.dir/requires
 

@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/nullptr/CLionProjects/moderncpp/libfeatures/chrono.cpp" "C:/Users/nullptr/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/moderncpp.dir/libfeatures/chrono.cpp.obj"
-  "C:/Users/nullptr/CLionProjects/moderncpp/main.cpp" "C:/Users/nullptr/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/moderncpp.dir/main.cpp.obj"
+  "C:/Users/nullptr/CLionProjects/moderncpp/derek/vectors.cpp" "C:/Users/nullptr/CLionProjects/moderncpp/cmake-build-debug/CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

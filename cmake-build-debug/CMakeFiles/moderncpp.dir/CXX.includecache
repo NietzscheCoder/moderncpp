@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/nullptr/CLionProjects/moderncpp/libfeatures/chrono.cpp
+C:/Users/nullptr/CLionProjects/moderncpp/derek/vectors.cpp
+string
+-
 iostream
 -
-chrono
+vector
 -
-
-C:/Users/nullptr/CLionProjects/moderncpp/main.cpp
-iostream
+sstream
 -
 
