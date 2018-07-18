@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/nullptr/CLionProjects/moderncpp/derek/vectors.cpp">
+		<Unit filename="C:/Users/nullptr/CLionProjects/moderncpp/derek/string2vector.cpp">
 			<Option target="moderncpp"/>
 		</Unit>
 		<Unit filename="C:/Users/nullptr/CLionProjects/moderncpp/CMakeLists.txt">

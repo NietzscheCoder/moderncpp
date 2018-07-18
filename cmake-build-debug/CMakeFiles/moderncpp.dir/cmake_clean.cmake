@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/moderncpp.dir/derek/vectors.cpp.obj"
+  "CMakeFiles/moderncpp.dir/derek/string2vector.cpp.obj"
   "moderncpp.pdb"
   "moderncpp.exe"
   "moderncpp.exe.manifest"
