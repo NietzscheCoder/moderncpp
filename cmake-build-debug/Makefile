@@ -122,32 +122,32 @@ moderncpp/fast:
 	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/build
 .PHONY : moderncpp/fast
 
-derek/string2vector.obj: derek/string2vector.cpp.obj
+derek/cipher.obj: derek/cipher.cpp.obj
 
-.PHONY : derek/string2vector.obj
+.PHONY : derek/cipher.obj
 
 # target to build an object file
-derek/string2vector.cpp.obj:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/string2vector.cpp.obj
-.PHONY : derek/string2vector.cpp.obj
+derek/cipher.cpp.obj:
+	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/cipher.cpp.obj
+.PHONY : derek/cipher.cpp.obj
 
-derek/string2vector.i: derek/string2vector.cpp.i
+derek/cipher.i: derek/cipher.cpp.i
 
-.PHONY : derek/string2vector.i
+.PHONY : derek/cipher.i
 
 # target to preprocess a source file
-derek/string2vector.cpp.i:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/string2vector.cpp.i
-.PHONY : derek/string2vector.cpp.i
+derek/cipher.cpp.i:
+	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/cipher.cpp.i
+.PHONY : derek/cipher.cpp.i
 
-derek/string2vector.s: derek/string2vector.cpp.s
+derek/cipher.s: derek/cipher.cpp.s
 
-.PHONY : derek/string2vector.s
+.PHONY : derek/cipher.s
 
 # target to generate assembly for a file
-derek/string2vector.cpp.s:
-	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/string2vector.cpp.s
-.PHONY : derek/string2vector.cpp.s
+derek/cipher.cpp.s:
+	$(MAKE) -f CMakeFiles\moderncpp.dir\build.make CMakeFiles/moderncpp.dir/derek/cipher.cpp.s
+.PHONY : derek/cipher.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... moderncpp
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... derek/string2vector.obj
-	@echo ... derek/string2vector.i
-	@echo ... derek/string2vector.s
+	@echo ... derek/cipher.obj
+	@echo ... derek/cipher.i
+	@echo ... derek/cipher.s
 .PHONY : help
 
 

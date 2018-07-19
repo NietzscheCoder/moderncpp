@@ -21,12 +21,11 @@ int main()
 
     std::cout << sCusts << "\n";
 
-
-    //std::vector<std::string> vec = StringToVector("Some Randome Word", ' ');
-    // for(int i = 0; i< vec.size(); i++)
-    //  {
-    //      std::cout << vec[i] << "\n";
-    //   }
+    std::vector<std::string> vec = StringToVector("Some Randome Word", ' ');
+    for(int i = 0; i< vec.size(); i++)
+    {
+        std::cout << vec[i] << "\n";
+    }
 
     return 0;
 }

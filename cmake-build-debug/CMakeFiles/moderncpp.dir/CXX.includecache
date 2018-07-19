@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/nullptr/CLionProjects/moderncpp/derek/string2vector.cpp
+C:/Users/nullptr/CLionProjects/moderncpp/derek/cipher.cpp
 iostream
 -
-numeric
--
-sstream
--
-vector
+string
 -
 
