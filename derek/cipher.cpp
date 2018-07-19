@@ -14,7 +14,7 @@ int main()
     std::string decryptedStr = CaesarCipher(encryptedStr, 5, false);
 
     std::cout << "Encrypted str " << encryptedStr << "\n";
-    std::cout << "Decrypted str" << decryptedStr << "\n";
+    std::cout << "Decrypted str " << decryptedStr << "\n";
 
     return 0;
 

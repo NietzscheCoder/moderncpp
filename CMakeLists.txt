@@ -3,4 +3,4 @@ project(moderncpp)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1y")
 
-add_executable(moderncpp derek/cipher.cpp)
+add_executable(moderncpp derek/bubble.cpp)
